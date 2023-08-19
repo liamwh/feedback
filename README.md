@@ -1,4 +1,4 @@
-# Feedback for [Veloxide](https://veloxide.dev)
+# Feedback for [veloxide.dev](https://veloxide.dev)
 
 Spotted a typo? An inaccuracy? An article is out of date?
 
