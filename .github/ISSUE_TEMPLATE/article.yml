@@ -1,0 +1,23 @@
+name: Article
+description: So you've spotted something off. Let's get that fixed!
+title: "Article: "
+labels: [article]
+body:
+  - type: input
+    attributes:
+      label: "Link to where it happened"
+      placeholder: "https://veloxide.dev/articles"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Describe what's wrong
+      description: A concise description of what you feel is incorrect.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected solution
+      description: A concise description of what you expect instead.
+    validations:
+      required: false
